@@ -20,13 +20,13 @@ python main.py --file example1.log --report average --date 2025-06-22
 
 Количество обращений по User-Agent из файла example1.log.
 
-![Отчёт user_agents example1](images/user_agents_example1.png)
+![Отчёт user_agent example1](images/user_agent_example1.png)
 
 # Отчёт user_agents для example2.log дата 2025-06-22
 
 Количество обращений по User-Agent из файла example2.log.
 
-![Отчёт user_agents example2](images/user_agents_example2.png)
+![Отчёт user_agent example2](images/user_agent_example2.png)
 
 # Результаты тестов pytest
 
